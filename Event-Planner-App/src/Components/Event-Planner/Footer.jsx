@@ -5,12 +5,12 @@ const Footer = () => {
     <footer
       style={{
         padding: "20px",
-        backgroundColor: "#333",
+        backgroundColor: "#AB2673",
         color: "#fff",
         textAlign: "center",
       }}
     >
-      <p>&copy; 2024 Event Planner. All rights reserved.</p>
+      <p>&copy; 2024 Bright Event Planner. All rights reserved.</p>
     </footer>
   );
 };

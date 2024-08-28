@@ -2,8 +2,10 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header style={{ padding: "20px", backgroundColor: "#333", color: "#fff" }}>
-      <h1>Event Planner</h1>
+    <header
+      style={{ padding: "20px", backgroundColor: "#393E50", color: "#fff" }}
+    >
+      <h1>Bright Event Planner</h1>
       <nav>
         <a href="#events" style={{ margin: "0 15px", color: "#fff" }}>
           Events
